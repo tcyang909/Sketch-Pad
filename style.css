@@ -1,0 +1,23 @@
+body 
+{
+    display: block;
+    margin: 8px;
+}
+h1{
+	text-align: center;
+}
+.nav{
+	margin: auto;
+	text-align: center;
+}
+.container{
+	margin: 10px auto;
+	width: 960px;
+	height: 960px;
+}
+.square 
+{
+	border: 1px solid black;
+	display: table-cell;
+    background-color: white;
+}
